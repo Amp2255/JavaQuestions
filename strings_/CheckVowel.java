@@ -1,3 +1,4 @@
+package strings_;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
